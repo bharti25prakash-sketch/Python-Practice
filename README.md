@@ -1,2 +1,2 @@
 # Python-Practice
-"My class 9 python practice programs"
+This repository contains the Python programs I am making while leaning Python in class 9.
